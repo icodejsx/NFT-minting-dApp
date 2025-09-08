@@ -30,5 +30,3 @@ mod HelloStarknet {
         }
     }
 }
-
-/////
